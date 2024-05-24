@@ -10,11 +10,11 @@ and it shows how to create projects using object oriented programming and file s
 1. Clone the repository
 2. Install visual studio 2022
 3. Install c++ programming language in visual studio
-4. watch this video to install visual studio and installing c++ <a href="https://www.youtube.com/watch?v=oG62eWTIAdc&t=2s&pp=ygUlaW5zdGFsbGluZyB2aXN1YWwgc3R1ZGlvIDIwMjIgZm9yIGMrKw%3D%3D" target="_blank"> click to watch video
-</a>
-5. open the solution that inside the clone with name "O.O.P-Applications-Abu-Hadhoud.sln"
-6. set the project inside visual studio "Project3-BankSystem" as start up project and run visual studio program
-7. after running enter UserName:User1 and Password:1234 
+4. watch this video to install visual studio and installing c++
+5. <a href="https://www.youtube.com/watch v=oG62eWTIAdc&t=2s&pp=ygUlaW5zdGFsbGluZyB2aXN1YWwgc3R1ZGlvIDIwMjIgZm9yIGMrKw%3D%3D"> click to watch video</a>
+6. Open the project solution in the folder you cloned with name "O.O.P-Applications-Abu-Hadhoud.sln"
+7. after that set the project with name "Project3-BankSystem" as the start up project and run visual studio using short "ctrl + F5"
+8. UserName:User1 , and password:1234
 
 ## how to tweak this project for your own uses
 
