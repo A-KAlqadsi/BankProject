@@ -12,10 +12,9 @@ and it shows how to create projects using object oriented programming and file s
 3. Install c++ programming language in visual studio
 4. watch this video to install visual studio and installing c++ <a href="https://www.youtube.com/watch?v=oG62eWTIAdc&t=2s&pp=ygUlaW5zdGFsbGluZyB2aXN1YWwgc3R1ZGlvIDIwMjIgZm9yIGMrKw%3D%3D" target="_blank"> click to watch video
 </a>
-6. open the solution that inside the clone with name "O.O.P-Applications-Abu-Hadhoud.sln"
-7. set the project inside visual studio "Project3-BankSystem" as start up project and run visual studio program
-8. after running enter UserName: User1  and Password:1234
-9. 
+5. open the solution that inside the clone with name "O.O.P-Applications-Abu-Hadhoud.sln"
+6. set the project inside visual studio "Project3-BankSystem" as start up project and run visual studio program
+7. after running enter UserName:User1 and Password:1234 
 
 ## how to tweak this project for your own uses
 
